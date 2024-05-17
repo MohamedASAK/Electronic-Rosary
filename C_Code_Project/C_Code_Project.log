@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"D:\Study\3rd Year\Embedded Systems\Embedded Systems C Programming\Electronic Rosary\C_Code_Project\C_Code_Project.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"D:\Study\3rd Year\Embedded Systems\Embedded Systems C Programming\Electronic Rosary\C_Code_Project\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "C_Code_Project.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	C_Code_Project.c
+diagnostics: 91	123	Compiled Successfully	C_Code_Project.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+hint: 0	1144	Used RAM (bytes): 10 (3%)  Free RAM (bytes): 342 (97%)	Used RAM (bytes): 10 (3%)  Free RAM (bytes): 342 (97%)
+hint: 0	1144	Used ROM (program words): 181 (2%)  Free ROM (program words): 8011 (98%)	Used ROM (program words): 181 (2%)  Free ROM (program words): 8011 (98%)
+diagnostics: 0	125	Project Linked Successfully	C_Code_Project.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'C_Code_Project.mcppi' completed: 219 ms	 
+diagnostics: 0	103	Finished successfully: 17 May 2024, 19:28:07	C_Code_Project.mcppi

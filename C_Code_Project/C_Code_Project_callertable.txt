@@ -1,0 +1,10 @@
+main
+	portInit
+	flagInit
+	onesLoop
+		tensLoop
+			hundredsLoop
+				thousandsLoop
+	reset
+		portInit
+		flagInit
