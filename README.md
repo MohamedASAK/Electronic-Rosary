@@ -18,4 +18,4 @@ In this project i use
 
 8- Resistors with 11K
 
-9- ic 7447 decoder
+9- IC 7447 decoder
